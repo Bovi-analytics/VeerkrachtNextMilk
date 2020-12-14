@@ -3,6 +3,7 @@
 ## About
 
 This repository contains data to validate the next milk predictions from the Veerkracht VLAIO project. Please request write access to the repository via m.m.hostens@uu.nl
+If extra information is needed, this can be requested.
 
 ## The dataset
 
