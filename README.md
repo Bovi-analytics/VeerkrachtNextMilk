@@ -1,5 +1,9 @@
 # Repository for nextMilk prediction of Veerkracht
 
+## About
+
+This repository contains data to validate the next milk predictions from the Veerkracht VLAIO project. Please request write access to the repository via m.m.hostens@uu.nl
+
 ## The dataset
 
 In the './Data/' folder a dataset of individual cow milk recording events of 100 farms has been collected.
