@@ -1,4 +1,4 @@
-# Repository for nextMilk prediction of Veerkracht
+# Repository for validation of nextMilk predictions for the Veerkracht
 
 ## About
 
